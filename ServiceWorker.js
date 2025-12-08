@@ -1,9 +1,9 @@
 const cacheName = "Xminds-Xminds-Product-WebGL-0.1.0";
 const contentToCache = [
     "Build/xminds-product-webgl.loader.js",
-    "Build/xminds-product-webgl.framework.js",
-    "Build/xminds-product-webgl.data",
-    "Build/xminds-product-webgl.wasm",
+    "Build/xminds-product-webgl.framework.js.unityweb",
+    "Build/xminds-product-webgl.data.unityweb",
+    "Build/xminds-product-webgl.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
